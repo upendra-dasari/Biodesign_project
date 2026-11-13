@@ -57,22 +57,6 @@ flowchart TD
 
 ---
 
-## 📂 Repository Structure
-
-```text
-biodesign_final/
-├── sleep_monitor_webapp.ipynb     # Complete interactive Google Colab notebook (Gradio app + tests)
-├── Project_Report_Smartphone_Respiratory_Monitoring.docx  # Full BioDesign academic report (Word document)
-├── Project_Report_Smartphone_Respiratory_Monitoring.md    # Markdown transcript of the project report
-├── Smartphone_Based_Respiratory_Monitoring_YAMNet_Simple.pptx # 16-slide academic presentation deck
-├── README.md                      # Project documentation and setup guide
-└── test_audio/                    # Benchmark test recordings
-    ├── heavy_breath+silence_used_for_apnea.mp3
-    ├── heavy_breath+hello.mp3
-    ├── only_snoring.mp3
-    ├── snoring+hello.mp3
-    └── 197454__everythingsounds__snoring.wav
-```
 
 ---
 
